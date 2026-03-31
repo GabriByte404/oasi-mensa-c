@@ -1,0 +1,6 @@
+bin/
+*.o
+*.tmp
+~$*
+ipc_key_anchor
+stats.csv
